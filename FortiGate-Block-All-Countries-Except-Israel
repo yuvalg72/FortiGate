@@ -1,0 +1,1262 @@
+config firewall address
+edit Andorra
+set type geography
+set country AD
+set color 6
+next
+edit United_Arab_Emirates
+set type geography
+set country AE
+set color 6
+next
+edit Afghanistan
+set type geography
+set country AF
+set color 6
+next
+edit Antigua_Barbuda
+set type geography
+set country AG
+set color 6
+next
+edit Anguilla
+set type geography
+set country AI
+set color 6
+next
+edit Albania
+set type geography
+set country AL
+set color 6
+next
+edit Armenia
+set type geography
+set country AM
+set color 6
+next
+edit Netherlands_Antilles
+set type geography
+set country AN
+set color 6
+next
+edit Angola
+set type geography
+set country AO
+set color 6
+next
+edit Antarctica
+set type geography
+set country AQ
+set color 6
+next
+edit Argentia
+set type geography
+set country AR
+set color 6
+next
+edit American_Samoa
+set type geography
+set country AS
+set color 6
+next
+edit Austria
+set type geography
+set country AT
+set color 6
+next
+edit Australia
+set type geography
+set country AU
+set color 6
+next
+edit Aruba
+set type geography
+set country AW
+set color 6
+next
+edit Aland_Islands
+set type geography
+set country AX
+set color 6
+next
+edit Azerbaijan
+set type geography
+set country AZ
+set color 6
+next
+edit Bosnia_Herzegovina
+set type geography
+set country BA
+set color 6
+next
+edit Barbados
+set type geography
+set country BB
+set color 6
+next
+edit Bangladesh
+set type geography
+set country BD
+set color 6
+next
+edit Belgium
+set type geography
+set country BE
+set color 6
+next
+edit Burkina_Faso
+set type geography
+set country BF
+set color 6
+next
+edit Bulgaria
+set type geography
+set country BG
+set color 6
+next
+edit Bahrain
+set type geography
+set country BH
+set color 6
+next
+edit Burundi
+set type geography
+set country BI
+set color 6
+next
+edit Benin
+set type geography
+set country BJ
+set color 6
+next
+edit Saint_Bartelemey
+set type geography
+set country BL
+set color 6
+next
+edit Bermuda
+set type geography
+set country BM
+set color 6
+next
+edit Brunei_Darussalam
+set type geography
+set country BN
+set color 6
+next
+edit Bolivia
+set type geography
+set country BO
+set color 6
+next
+edit Bonaire_St_Eustatius_and_Saba
+set type geography
+set country BQ
+set color 6
+next
+edit Brazil
+set type geography
+set country BR
+set color 6
+next
+edit Bahamas
+set type geography
+set country BS
+set color 6
+next
+edit Bhutan
+set type geography
+set country BT
+set color 6
+next
+edit Bouvet_Island
+set type geography
+set country BV
+set color 6
+next
+edit Botswana
+set type geography
+set country BW
+set color 6
+next
+edit Belarus
+set type geography
+set country BY
+set color 6
+next
+edit Belize
+set type geography
+set country BZ
+set color 6
+next
+edit Canada
+set type geography
+set country CA
+set color 6
+next
+edit Cocos_Keeling_Islands
+set type geography
+set country CC
+set color 6
+next
+edit Congo_Democratic_Repub
+set type geography
+set country CD
+set color 6
+next
+edit Central_African_Republic
+set type geography
+set country CF
+set color 6
+next
+edit Congo
+set type geography
+set country CG
+set color 6
+next
+edit Switzerland
+set type geography
+set country CH
+set color 6
+next
+edit Cote_d_Ivoire
+set type geography
+set country CI
+set color 6
+next
+edit Cook_Islands
+set type geography
+set country CK
+set color 6
+next
+edit Chile
+set type geography
+set country CL
+set color 6
+next
+edit Cameroon
+set type geography
+set country CM
+set color 6
+next
+edit China
+set type geography
+set country CN
+set color 6
+next
+edit Colombia
+set type geography
+set country CO
+set color 6
+next
+edit Costa_Rica
+set type geography
+set country CR
+set color 6
+next
+edit Cuba
+set type geography
+set country CU
+set color 6
+next
+edit Cape_Verde
+set type geography
+set country CV
+set color 6
+next
+edit Curacao
+set type geography
+set country CW
+set color 6
+next
+edit Christmas_Island
+set type geography
+set country CX
+set color 6
+next
+edit Cyprus
+set type geography
+set country CY
+set color 6
+next
+edit Czech_Republic
+set type geography
+set country CZ
+set color 6
+next
+edit Germany
+set type geography
+set country DE
+set color 6
+next
+edit Djibouti
+set type geography
+set country DJ
+set color 6
+next
+edit Denmark
+set type geography
+set country DK
+set color 6
+next
+edit Dominican
+set type geography
+set country DM
+set color 6
+next
+edit Dominican_Republic
+set type geography
+set country DO
+set color 6
+next
+edit Algeria
+set type geography
+set country DZ
+set color 6
+next
+edit Ecuador
+set type geography
+set country EC
+set color 6
+next
+edit Estonia
+set type geography
+set country EE
+set color 6
+next
+edit Egypt
+set type geography
+set country EG
+set color 6
+next
+edit Western_Sahara
+set type geography
+set country EH
+set color 6
+next
+edit Eritrea
+set type geography
+set country ER
+set color 6
+next
+edit Spain
+set type geography
+set country ES
+set color 6
+next
+edit Ethiopia
+set type geography
+set country ET
+set color 6
+next
+edit Finland
+set type geography
+set country FI
+set color 6
+next
+edit Fiji
+set type geography
+set country FJ
+set color 6
+next
+edit Falkland_Islands_Malvinas
+set type geography
+set country FK
+set color 6
+next
+edit Micronesia_Federated_States
+set type geography
+set country FM
+set color 6
+next
+edit Faroe_Islands
+set type geography
+set country FO
+set color 6
+next
+edit France
+set type geography
+set country FR
+set color 6
+next
+edit Gabon
+set type geography
+set country GA
+set color 6
+next
+edit United_Kingdom
+set type geography
+set country GB
+set color 6
+next
+edit Grenada
+set type geography
+set country GD
+set color 6
+next
+edit Georgia
+set type geography
+set country GE
+set color 6
+next
+edit French_Guiana
+set type geography
+set country GF
+set color 6
+next
+edit Guernsey
+set type geography
+set country GG
+set color 6
+next
+edit Ghana
+set type geography
+set country GH
+set color 6
+next
+edit Gibraltar
+set type geography
+set country GI
+set color 6
+next
+edit Greenland
+set type geography
+set country GL
+set color 6
+next
+edit Gambia
+set type geography
+set country GM
+set color 6
+next
+edit Guinea
+set type geography
+set country GN
+set color 6
+next
+edit Guadeloupe
+set type geography
+set country GP
+set color 6
+next
+edit Equatorial_Guinea
+set type geography
+set country GQ
+set color 6
+next
+edit Greece
+set type geography
+set country GR
+set color 6
+next
+edit South_Georgia_and_South_Sandwich_Islands
+set type geography
+set country GS
+set color 6
+next
+edit Guatemala
+set type geography
+set country GT
+set color 6
+next
+edit Guam
+set type geography
+set country GU
+set color 6
+next
+edit Guinea-Bissau
+set type geography
+set country GW
+set color 6
+next
+edit Guyana
+set type geography
+set country GY
+set color 6
+next
+edit Hong_Kong
+set type geography
+set country HK
+set color 6
+next
+edit Heard_and_Mcdonald_Islands
+set type geography
+set country HM
+set color 6
+next
+edit Honduras
+set type geography
+set country HN
+set color 6
+next
+edit Croatia
+set type geography
+set country HR
+set color 6
+next
+edit Haiti
+set type geography
+set country HT
+set color 6
+next
+edit Hungary
+set type geography
+set country HU
+set color 6
+next
+edit Indonesia
+set type geography
+set country ID
+set color 6
+next
+edit Ireland
+set type geography
+set country IE
+set color 6
+next
+edit Israel
+set type geography
+set country IL
+set color 17
+next
+edit Isle_of_Man
+set type geography
+set country IM
+set color 6
+next
+edit India
+set type geography
+set country IN
+set color 6
+next
+edit British_Indian_Ocean_Territory
+set type geography
+set country IO
+set color 6
+next
+edit Iraq
+set type geography
+set country IQ
+set color 6
+next
+edit Iran
+set type geography
+set country IR
+set color 6
+next
+edit Iceland
+set type geography
+set country IS
+set color 6
+next
+edit Italy
+set type geography
+set country IT
+set color 6
+next
+edit Jersey
+set type geography
+set country JE
+set color 6
+next
+edit Jamaica
+set type geography
+set country JM
+set color 6
+next
+edit Jordan
+set type geography
+set country JO
+set color 6
+next
+edit Japan
+set type geography
+set countr JP
+next
+edit Kenya
+set type geography
+set country KE
+set color 6
+next
+edit Kyrgyzstan
+set type geography
+set country KG
+set color 6
+next
+edit Cambodia
+set type geography
+set country KH
+set color 6
+next
+edit Kiribati
+set type geography
+set country KI
+set color 6
+next
+edit Comoros
+set type geography
+set country KM
+set color 6
+next
+edit Saint_Kitts_and_Nevis
+set type geography
+set country KN
+set color 6
+next
+edit North_Korea
+set type geography
+set country KP
+set color 6
+next
+edit South_Korea
+set type geography
+set country KR
+set color 6
+next
+edit Kuwait
+set type geography
+set country KW
+set color 6
+next
+edit Cayman_Islands
+set type geography
+set country KY
+set color 6
+next
+edit Kazakhstan
+set type geography
+set country KZ
+set color 6
+next
+edit Lao_Peoples_Democratic_Rep
+set type geography
+set country LA
+set color 6
+next
+edit Lebanon
+set type geography
+set country LB
+set color 6
+next
+edit Saint_Lucia
+set type geography
+set country LC
+set color 6
+next
+edit Liechtenstein
+set type geography
+set country LI
+set color 6
+next
+edit Sri_Lanka
+set type geography
+set country LK
+set color 6
+next
+edit Liberia
+set type geography
+set country LR
+set color 6
+next
+edit Lesotho
+set type geography
+set country LS
+set color 6
+next
+edit Lithuania
+set type geography
+set country LT
+set color 6
+next
+edit Luxembourg
+set type geography
+set country LU
+set color 6
+next
+edit Latvia
+set type geography
+set country LV
+set color 6
+next
+edit Lbyan_Arab_Jamahiriya
+set type geography
+set country LY
+set color 6
+next
+edit Morocco
+set type geography
+set country MA
+set color 6
+next
+edit Monaco
+set type geography
+set country MC
+set color 6
+next
+edit Moldova
+set type geography
+set country MD
+set color 6
+next
+edit Montenegro
+set type geography
+set country ME
+set color 6
+next
+edit Saint_Martin
+set type geography
+set country MF
+set color 6
+next
+edit Madagascar
+set type geography
+set country MG
+set color 6
+next
+edit Marshall_Islands
+set type geography
+set country MH
+set color 6
+next
+edit Macedonia
+set type geography
+set country MK
+set color 6
+next
+edit Mali
+set type geography
+set country ML
+set color 6
+next
+edit Myanmar
+set type geography
+set country MM
+set color 6
+next
+edit Mongolia
+set type geography
+set country MN
+set color 6
+next
+edit Macao
+set type geography
+set country MO
+set color 6
+next
+edit Northern_Mariana_Islands
+set type geography
+set country MP
+set color 6
+next
+edit Martinique
+set type geography
+set country MQ
+set color 6
+next
+edit Mauritania
+set type geography
+set country MR
+set color 6
+next
+edit Montserrat
+set type geography
+set country MS
+set color 6
+next
+edit Malta
+set type geography
+set country MT
+set color 6
+next
+edit Mauritius
+set type geography
+set country MU
+set color 6
+next
+edit Maldives
+set type geography
+set country MV
+set color 6
+next
+edit Malawi
+set type geography
+set country MW
+set color 6
+next
+edit Mexico
+set type geography
+set country MX
+set color 6
+next
+edit Malaysia
+set type geography
+set country MY
+set color 6
+next
+edit Mozambique
+set type geography
+set country MZ
+set color 6
+next
+edit Namibia
+set type geography
+set country NA
+set color 6
+next
+edit New_Caledonia
+set type geography
+set country NC
+set color 6
+next
+edit Niger
+set type geography
+set country NE
+set color 6
+next
+edit Norfolk_Island
+set type geography
+set country NF
+set color 6
+next
+edit Nigeria
+set type geography
+set country NG
+set color 6
+next
+edit Nicaragua
+set type geography
+set country NI
+set color 6
+next
+edit Netherlands
+set type geography
+set country NL
+set color 6
+next
+edit Norway
+set type geography
+set country NO
+set color 6
+next
+edit Nepal
+set type geography
+set country NP
+set color 6
+next
+edit Nauru
+set type geography
+set country NR
+set color 6
+next
+edit Niue
+set type geography
+set country NU
+set color 6
+next
+edit New_Zealand
+set type geography
+set country NZ
+set color 6
+next
+edit Oman
+set type geography
+set country OM
+set color 6
+next
+edit Panama
+set type geography
+set country PA
+set color 6
+next
+edit Peru
+set type geography
+set country PE
+set color 6
+next
+edit French_Polynesia
+set type geography
+set country PF
+set color 6
+next
+edit Papua_New_Guinea
+set type geography
+set country PG
+set color 6
+next
+edit Phillipines
+set type geography
+set country PH
+set color 6
+next
+edit Pakistan
+set type geography
+set country PK
+set color 6
+next
+edit Poland
+set type geography
+set country PL
+set color 6
+next
+edit St_Pierre_and_Miquelon
+set type geography
+set country PM
+set color 6
+next
+edit Pitcairn
+set type geography
+set country PN
+set color 6
+next
+edit Puerto_Rico
+set type geography
+set country PR
+set color 6
+next
+edit Palestinian_Territory
+set type geography
+set country PS
+set color 6
+next
+edit Portugal
+set type geography
+set country PT
+set color 6
+next
+edit Palau
+set type geography
+set country PW
+set color 6
+next
+edit Paraguay
+set type geography
+set country PY
+set color 6
+next
+edit Qatar 
+set type geography
+set country QA
+set color 6
+next
+edit Reunion
+set type geography
+set country RE
+set color 6
+next
+edit Romania
+set type geography
+set country RO
+set color 6
+next
+edit Serbia
+set type geography
+set country RS
+set color 6
+next
+edit Russia
+set type geography
+set country RU
+set color 6
+next
+edit Rwanda
+set type geography
+set country RW
+set color 6
+next
+edit Saudi_Arabia
+set type geography
+set country SA
+set color 6
+next
+edit Solomon_Islands
+set type geography
+set country SB
+set color 6
+next
+edit Seychelles
+set type geography
+set country SC
+set color 6
+next
+edit Sudan
+set type geography
+set country SD
+set color 6
+next
+edit Sweden
+set type geography
+set country SE
+set color 6
+next
+edit Singapore
+set type geography
+set country SG
+set color 6
+next
+edit Saint_Helena
+set type geography
+set country SH
+set color 6
+next
+edit Slovenia
+set type geography
+set country SI
+set color 6
+next
+edit Svalbard_and_Jan_Mayen
+set type geography
+set country SJ
+set color 6
+next
+edit Slovakia
+set type geography
+set country SK
+set color 6
+next
+edit Sierra_Leone
+set type geography
+set country SL
+set color 6
+next
+edit San_Marino
+set type geography
+set country SM
+set color 6
+next
+edit Senegal
+set type geography
+set country SN
+set color 6
+next
+edit Somalia
+set type geography
+set country SO
+set color 6
+next
+edit Suriname
+set type geography
+set country SR
+set color 6
+next
+edit South_Sudan
+set type geography
+set country SS
+set color 6
+next
+edit Sao_Tome_and_Principe
+set type geography
+set country ST
+set color 6
+next
+edit El_Salvador
+set type geography
+set country SV
+set color 6
+next
+edit Sint_Maarten
+set type geography
+set country SX
+set color 6
+next
+edit Syrian_Arab_Republic
+set type geography
+set country SY
+set color 6
+next
+edit Swaziland
+set type geography
+set country SZ
+set color 6
+next
+edit Turks_and_Caicos_Islands
+set type geography
+set country TC
+set color 6
+next
+edit Chad
+set type geography
+set country TD
+set color 6
+next
+edit French_Southern_Territories
+set type geography
+set country TF
+set color 6
+next
+edit Togo
+set type geography
+set country TG
+set color 6
+next
+edit Thailand
+set type geography
+set country TH
+set color 6
+next
+edit Tajikistan
+set type geography
+set country TJ
+set color 6
+next
+edit Tokelau
+set type geography
+set country TK
+set color 6
+next
+edit TimorLeste
+set type geography
+set country TL
+set color 6
+next
+edit Turkmenistan
+set type geography
+set country TM
+set color 6
+next
+edit Tunisia
+set type geography
+set country TN
+set color 6
+next
+edit Tonga
+set type geography
+set country TO
+set color 6
+next
+edit Turkey
+set type geography
+set country TR
+set color 6
+next
+edit Trinidad_and_Tobago
+set type geography
+set country TT
+set color 6
+next
+edit Tuvalu
+set type geography
+set country TV
+set color 6
+next
+edit Taiwan
+set type geography
+set country TW
+set color 6
+next
+edit Tanzania
+set type geography
+set country TZ
+set color 6
+next
+edit Ukraine
+set type geography
+set country UA
+set color 6
+next
+edit Uganda
+set type geography
+set country UG
+set color 6
+next
+edit US_Minor_Outlying_Islands
+set type geography
+set country UM
+set color 6
+next
+edit United_States
+set type geography
+set country US
+set color 6
+next
+edit Uruguay
+set type geography
+set country UY
+set color 6
+next
+edit Uzbekistan
+set type geography
+set country UZ
+set color 6
+next
+edit Holy_See_Vatican_State
+set type geography
+set country VA
+set color 6
+next
+edit St_Vincent_and_Grenadines
+set type geography
+set country VC
+set color 6
+next
+edit Venezuela
+set type geography
+set country VE
+set color 6
+next
+edit British_Virgin_Islands
+set type geography
+set country VG
+set color 6
+next
+edit US_Virgin_Islands
+set type geography
+set country VI
+set color 6
+next
+edit Vietnam
+set type geography
+set country VN
+set color 6
+next
+edit Vanuatu
+set type geography
+set country VU
+set color 6
+next
+edit Wallis_and_Futuna
+set type geography
+set country WF
+set color 6
+next
+edit Samoa
+set type geography
+set country WS
+set color 6
+next
+edit Kosovo
+set type geography
+set country XK
+set color 6
+next
+edit Yemen
+set type geography
+set country YE
+set color 6
+next
+edit Mayotte
+set type geography
+set country YT
+set color 6
+next
+edit South_Africa
+set type geography
+set country ZA
+set color 6
+next
+edit Zambia
+set type geography
+set country ZM
+set color 6
+next
+edit Zimbabwe
+set type geography
+set country ZW
+set color 6
+next
+end
+config firewall addrgrp
+edit "FG-Countries_Block"
+set member "Afghanistan" "Aland_Islands" "Albania" "Algeria" "American_Samoa" "Andorra" "Angola" "Anguilla" "Antarctica" "Antigua_Barbuda" "Argentia" "Armenia" "Aruba" "Australia" "Austria" "Azerbaijan" "Bahamas" "Bahrain" "Bangladesh" "Barbados" "Belarus" "Belgium" "Belize" "Benin" "Bermuda" "Bhutan" "Bolivia" "Bonaire_St_Eustatius_and_Saba" "Bosnia_Herzegovina" "Botswana" "Bouvet_Island" "Brazil" "British_Indian_Ocean_Territory" "British_Virgin_Islands" "Brunei_Darussalam" "Bulgaria" "Burkina_Faso" "Burundi" "Cambodia" "Cameroon" "Cape_Verde" "Cayman_Islands" "Chad" "Chile" "China" "Christmas_Island" "Cocos_Keeling_Islands" "Colombia" "Costa_Rica" "Comoros" "Congo" "Congo_Democratic_Repub" "Central_African_Republic" "Cook_Islands" "Cote_d_Ivoire" "Croatia" "Cuba" "Curacao" "Cyprus" "Czech_Republic" "Denmark" "Djibouti" "Dominican" "Dominican_Republic" "Ecuador" "Egypt" "El_Salvador" "Equatorial_Guinea" "Eritrea" "Estonia" "Ethiopia" "Falkland_Islands_Malvinas" "Faroe_Islands" "Fiji" "Finland" "France" "French_Guiana" "French_Polynesia" "French_Southern_Territories" "Gabon" "Georgia" "Germany" "Ghana" "Gibraltar" "Greece" "Greenland" "Gambia" "Grenada" "Guadeloupe" "Guam" "Guatemala" "Guernsey" "Guinea" "Guinea-Bissau" "Guyana" "Haiti" "Heard_and_Mcdonald_Islands" "Holy_See_Vatican_State" "Honduras" "Hong_Kong" "Hungary" "Iceland" "India" "Indonesia" "Iran" "Iraq" "Ireland" "Isle_of_Man" "Italy" "Jamaica" "Japan" "Jersey" "Jordan" "Kazakhstan" "Kenya" "Kiribati" "Kosovo" "Kuwait" "Kyrgyzstan" "Lao_Peoples_Democratic_Rep" "Latvia" "Lbyan_Arab_Jamahiriya" "Lebanon" "Lesotho" "Liberia" "Liechtenstein" "Lithuania" "Luxembourg" "Macao" "Macedonia" "Madagascar" "Malawi" "Malaysia" "Maldives" "Mali" "Malta" "Marshall_Islands" "Martinique" "Mauritania" "Mauritius" "Mayotte" "Mexico" "Micronesia_Federated_States" "Moldova" "Monaco" "Mongolia" "Montenegro" "Montserrat" "Morocco" "Mozambique" "Myanmar" "Namibia" "Nauru" "Nepal" "Netherlands" "Netherlands_Antilles" "New_Caledonia" "New_Zealand" "Nicaragua" "Niger" "Nigeria" "Niue" "Norfolk_Island" "North_Korea" "Northern_Mariana_Islands" "Norway" "Oman" "Pakistan" "Palau" "Palestinian_Territory" "Panama" "Papua_New_Guinea" "Paraguay" "Peru" "Phillipines" "Pitcairn" "Poland" "Portugal" "Puerto_Rico" "Qatar" "Reunion" "Romania" "Russia" "Rwanda" "Saint_Bartelemey" "Saint_Helena" "Saint_Kitts_and_Nevis" "Saint_Lucia" "Saint_Martin" "Samoa" "San_Marino" "Sao_Tome_and_Principe" "Saudi_Arabia" "Senegal" "Serbia" "Seychelles" "Sierra_Leone" "Singapore" "Sint_Maarten" "Slovakia" "Slovenia" "Solomon_Islands" "Somalia" "South_Africa" "South_Georgia_and_South_Sandwich_Islands" "South_Korea" "South_Sudan" "Spain" "Sri_Lanka" "St_Pierre_and_Miquelon" "St_Vincent_and_Grenadines" "Sudan" "Suriname" "Svalbard_and_Jan_Mayen" "Swaziland" "Sweden" "Switzerland" "Syrian_Arab_Republic" "Taiwan" "Tajikistan" "Tanzania" "Thailand" "TimorLeste" "Togo" "Tokelau" "Tonga" "Trinidad_and_Tobago" "Tunisia" "Turkey" "Turkmenistan" "Turks_and_Caicos_Islands" "Tuvalu" "Uganda" "Ukraine" "United_Arab_Emirates" "Uruguay" "Uzbekistan" "Vanuatu" "Venezuela" "Vietnam" "Wallis_and_Futuna" "Western_Sahara" "Yemen" "Zambia" "Zimbabwe" "United_Kingdom" "United_States" "US_Minor_Outlying_Islands" "US_Virgin_Islands"
+set color 6
+next
+end

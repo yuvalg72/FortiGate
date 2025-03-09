@@ -1,0 +1,63 @@
+config system geoip-override
+edit "Israel-099Primo"
+set description "AS8948_099_Primo_Communications_LTD_Israeli_ISP_GeoIP_Override"
+config ip-range
+edit 1
+set start-ip 38.56.224.0
+set end-ip 38.56.239.254
+next
+edit 2
+set start-ip 38.191.128.0
+set end-ip 38.191.143.254
+next
+edit 3
+set start-ip 38.253.96.0
+set end-ip 38.253.111.254
+next
+edit 4
+set start-ip 147.234.36.0
+set end-ip 147.234.37.254
+next
+edit 5
+set start-ip 147.234.38.0
+set end-ip 147.234.38.254
+next
+edit 6
+set start-ip 147.234.39.0
+set end-ip 147.234.39.254
+next
+edit 7
+set start-ip 147.234.44.0
+set end-ip 147.234.47.254
+next
+edit 8
+set start-ip 147.234.48.0
+set end-ip 147.234.51.254
+next
+edit 9
+set start-ip 147.234.128.0
+set end-ip 147.234.131.254
+next
+edit 10
+set start-ip 185.120.124.0
+set end-ip 185.120.127.254
+next
+edit 11
+set start-ip 195.192.224.0
+set end-ip 195.192.227.254
+next
+edit 12
+set start-ip 195.192.228.0
+set end-ip 195.192.228.254
+next
+edit 13
+set start-ip 195.192.230.0
+set end-ip 195.192.231.254
+next
+edit 14
+set start-ip 206.84.16.0
+set end-ip 206.84.31.254
+next
+end
+next
+end
